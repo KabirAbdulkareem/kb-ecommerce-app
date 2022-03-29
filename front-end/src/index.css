@@ -73,7 +73,7 @@ body{
 
 /* Header */
 
-/* #header{
+#header{
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -84,10 +84,10 @@ body{
     position: sticky;
     top: 0;
     left: 0;
-} */
+}
 
 
-/* #navbar{
+#navbar{
     display: flex;
     align-items: center;
     justify-content: center;
@@ -131,7 +131,7 @@ body{
     position: absolute;
     bottom: -4px;
     left: 20px;
-} */
+}
 
 /* Home page */
 #hero{
