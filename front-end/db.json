@@ -1,0 +1,101 @@
+{
+    "products": [
+      { "id": 1, 
+        "brand": "adidas", 
+        "name": "Litte Man T-Shirts",
+        "price": "$78",
+        "image": "./src/img/products/f1.jpg"
+      },
+      { "id": 2, 
+        "brand": "adidas", 
+        "name": "Crowd Love T-Shirts",
+        "price": "$50",
+        "image": "./src/img/products/f2.jpg"
+      },
+      { "id": 3, 
+        "brand": "adidas", 
+        "name": "Groovy Biker T-Shirts",
+        "price": "$25",
+        "image": "./src/img/products/f3.jpg"
+      },
+      { "id": 4, 
+        "brand": "adidas", 
+        "name": "Home Wear T-Shirts",
+        "price": "$63",
+        "image": "./src/img/products/f4.jpg"
+      },
+      { "id": 5, 
+        "brand": "floyd", 
+        "name": "Brown Floyd T-Shirts",
+        "price": "$81",
+        "image": "./src/img/products/f5.jpg"
+      },
+      { "id": 6, 
+        "brand": "wagger", 
+        "name": "Risky Wagger T-Shirts",
+        "price": "$78",
+        "image": "./src/img/products/f6.jpg"
+      },
+      { "id": 7, 
+        "brand": "adidas", 
+        "name": "MAffia Tank T-Shirts",
+        "price": "$78",
+        "image": "./src/img/products/f7.jpg"
+      },
+      { "id": 8, 
+        "brand": "berry", 
+        "name": "Blue Berry T-Shirts",
+        "price": "$78",
+        "image": "./src/img/products/f8.jpg"
+      },
+      { "id": 9, 
+        "brand": "wars", 
+        "name": "Star Wars T-Shirts",
+        "price": "$78",
+        "image": "./src/img/products/n9.jpg"
+      },
+      { "id": 10, 
+        "brand": "jerry", 
+        "name": "Jerry Flint T-Shirts",
+        "price": "$78",
+        "image": "./src/img/products/n10.jpg"
+      },
+      { "id": 11, 
+        "brand": "adidas", 
+        "name": "Cartoon Astronut T-Shirts",
+        "price": "$78",
+        "image": "./src/img/products/n11.jpg"
+      },
+      { "id": 12, 
+        "brand": "adidas", 
+        "name": "Cartoon Astronut T-Shirts",
+        "price": "$78",
+        "image": "./src/img/products/n12.jpg"
+      },
+      { "id": 13, 
+        "brand": "adidas", 
+        "name": "Cartoon Astronut T-Shirts",
+        "price": "$78",
+        "image": "./src/img/products/n13.jpg"
+      },
+      { "id": 14, 
+        "brand": "adidas", 
+        "name": "Cartoon Astronut T-Shirts",
+        "price": "$78",
+        "image": "./src/img/products/n14.jpg"
+      },
+      { "id": 15, 
+        "brand": "pink", 
+        "name": "Lady Pink T-Shirts",
+        "price": "$78",
+        "image": "./src/img/products/n15.jpg"
+      },
+      { "id": 16, 
+        "brand": "smile", 
+        "name": "Camel Smile T-Shirts",
+        "price": "$78",
+        "image": "./src/img/products/n16.jpg"
+      }
+      
+    ]
+}
